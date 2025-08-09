@@ -25,7 +25,7 @@ Para testar o Jogo basta apenas clonar ou baixar este repositório em sua máqui
 Clonando o Repositório:
 
 ```
-git clone https://github.com/YamiRenato/sete-meio-classic-version.git
+git clone https://github.com/rgvieiraoficial/sete-meio-classic-version.git
 ```
 
 ## ❕ Importante
@@ -38,7 +38,7 @@ _Então leve isso em consideração quando avaliar o código, pois eu era inicia
 
 ## 📱 Minhas Redes Sociais
 
-Linkedin: [@yamirenato](https://www.linkedin.com/in/yamirenato/) – renatog.gonalves9@gmail.com
+Linkedin: [@yamirenato](https://www.linkedin.com/in/yamirenato/)
 
 [html-image]: https://img.shields.io/badge/-html-orange
 [css-image]: https://img.shields.io/badge/-css-blue
